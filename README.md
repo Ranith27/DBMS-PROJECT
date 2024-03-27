@@ -1,6 +1,8 @@
 ### :one: Introduction
 DATA BASE MANAGEMENT SYSTEM BASED PROJECT(DBMS) 
-BUS PASS MANAGEMENT SYSTEM 
+
+BUS PASS MANAGEMENT SYSTEM
+
 Bus Pass Management System used to store all the data of the student who are enrolling for bus pass. It has made work faster and easier for the university, that the staff of the college working in this department can get the details of the student who are enrolling for college bus pass in very efficient manner. Whenever an administrator enters the Bus Pass system it shows the basic information like Drivers Records, Vehicles Records, boarding point records, students who have registered records. The software is used to store the data most securely and in proper arrangement way This is even help to store all the relevant data about students boarding point details and it generates a bus pass card for the student automatically
 
 ### :two: Output
