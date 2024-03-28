@@ -7,7 +7,7 @@ The "Bus Pass Management System" is developed and implemented using Java and MyS
 Bus Pass Management System used to store all the data of the student who are enrolling for bus pass. It has made work faster and easier for the university, that the staff of the college working in this department can get the details of the student who are enrolling for college bus pass in very efficient manner. Whenever an administrator enters the Bus Pass system it shows the basic information like Drivers Records, Vehicles Records, boarding point records, students who have registered records. The software is used to store the data most securely and in proper arrangement way This is even help to store all the relevant data about students boarding point details and it generates a bus pass card for the student automatically
 
 ### :two: Architecture Diagram
-  <img src= width=700>
+  <img src="https://github.com/Ranith27/DBMS-PROJECT/assets/115481333/83180354-1d5a-4228-8645-9a828df30e40" width=700>
 
 ### :three: Prerequisites
 Hardware Specification <br>
@@ -39,8 +39,9 @@ Step 7: Test the Application.
 
 ### :five: Output
 <p>
-  <img src= width=700>
-  <img src= width=700>
-  <img src= width=700>
-  <img src= width=700>
+  <img src="https://github.com/Ranith27/DBMS-PROJECT/assets/115481333/a628bb90-6888-4ca0-bcb5-e8fc8754e49e" width=700>
+  <img src="https://github.com/Ranith27/DBMS-PROJECT/assets/115481333/fe1e9cf1-8880-44e8-b509-f742f14e4a5b" width=700>
+  <img src="https://github.com/Ranith27/DBMS-PROJECT/assets/115481333/6a9685f3-f447-4013-8f6f-13ce61659e9a" width=700>
+  <img src="https://github.com/Ranith27/DBMS-PROJECT/assets/115481333/6dc25638-e7f6-4a25-8c7e-9c66255ceaf8" width=700>
+  <img src="https://github.com/Ranith27/DBMS-PROJECT/assets/115481333/53140d2c-76fe-4cab-9362-8c28db505b69" width=700>
 <p>
